@@ -1,0 +1,29 @@
+1,1,8,10,Howard Stark,
+2,1,10,13,Steve Roger,
+3,1,13,16,Claire Temple,
+4,1,16,20,Bruce Banner,$
+5,2,8,10,Naruto Uzumaki,
+6,2,10,13,Stephen Strange,
+7,2,13,16,Stephanie Mayer,
+8,2,16,20,Adam Warlock,&
+9,3,8,10,Milew Morales,
+10,3,10,13,Cindy Eigenman,
+11,3,13,16,Laura Clark,
+12,3,16,20,Bruce Wayde,@
+13,4,8,10,Kazuto Maya,
+14,4,10,13,Thor Odinson,
+15,4,13,16,Cile Lais,
+16,4,16,20,Tito Soto,#
+17,5,8,10,Donald Trump,
+18,5,10,13,Barak Obama,
+19,5,13,16,George Washington,
+20,5,16,20,Sasuke Uchiha,%
+21,6,8,10,Angelica Angelus,
+22,6,10,13,Hilary Duff,
+23,6,13,16,Agnes Ligaya,
+24,6,16,20,Chris Redfield,
+
+
+
+
+
